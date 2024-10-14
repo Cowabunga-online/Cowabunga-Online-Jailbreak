@@ -18,6 +18,7 @@ Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the la
 <li>No PC Required: Install Cowabunga Online without needing a Mac, Windows, or Linux system.</li>
 <li>Tweaks Coming Soon: Stay tuned! Full tweaks support will be added soon.</li>
 <br><br>
+
 ## What Can You Do?
 With Cowabunga Online Jailbreak, you can:
 
