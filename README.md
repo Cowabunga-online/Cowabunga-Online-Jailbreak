@@ -17,7 +17,7 @@ Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the la
 <li>Custom Themes: Personalize your device with a variety of themes that modify icons, widgets, and wallpapers.</li>
 <li>No PC Required: Install Cowabunga Online without needing a Mac, Windows, or Linux system.</li>
 <li>Tweaks Coming Soon: Stay tuned! Full tweaks support will be added soon.</li>
-
+<br><br>
 ## What Can You Do?
 With Cowabunga Online Jailbreak, you can:
 
@@ -38,42 +38,41 @@ With Cowabunga Online Jailbreak, you can:
 3. Follow the on-screen instructions to install Cowabunga Online.
    
 It’s that simple! No need for extra devices or complex setups. Experience the power of Cowabunga themes on your iOS 18 device today.
-
+<br><br>
 ## Compatibility
 
 *  iPhones: All models running iOS 18 and higher
 *  iPads: All models running iPadOS 18 and higher
-
+<br><br>
 ## Coming Soon
 We are actively working on bringing tweak support to Cowabunga Online. Once available, you’ll be able to enhance your device even further with powerful tweaks for customization and functionality improvements.
-
+<br><br>
 <b>Disclaimer</b>
 Cowabunga Online is an unofficial jailbreak tool. Use at your own risk, and make sure to back up your device before making any changes.
-
-
+<br><br>
 ## Cowabunga Online Jailbreak - Release Notes
 <b>Version 1.0 - Initial Release</b>
 <b>Release Date: October 01, 2024</b>
-
+<br><br>
 ## Overview
 
 The Cowabunga Online Jailbreak version 1.0 is now live! This is the first public release of the tool, fully supporting iOS 18 and iPadOS 18 on all iPhones and iPads.
-
+<br><br>
 ## Key Features
 
 *  Full Support for iOS 18 & iPadOS 18: Compatible with all devices running iOS 18 or iPadOS 18.
 *  Custom Themes: Experience a wide range of themes for icons, widgets, and wallpapers, allowing you to personalize your device without needing a computer.
 *  No PC/Mac Required: Completely online, install Cowabunga Online directly from your device.
 *  Easy-to-use: A straightforward installation process through Safari, designed for convenience.
-  
+  <br><br>
 ## Known Limitations
 
 *  Tweaks Support: Currently, tweak installation is not supported but will be added in future updates.
-  
+ <br><br> 
 ## Upcoming Features
 
 * Tweaks Support: The next release will include full support for installing tweaks, bringing even more customization to your device.
-  
+<br><br>  
 ## How to Install
 
 1. Open Safari on your iPhone or iPad running iOS 18 or iPadOS 18.
