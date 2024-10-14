@@ -3,10 +3,12 @@
 </div>
 
 Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the latest addition to the iOS 18 jailbreak solutions. It is a fully online jailbreak method that allows users to customize their iPhones and iPads without the need for a Mac, Windows, or Linux computer.
+<br><br>
 
 <div align="center">
-  <img src="" alt="Centered Image" width="300"/>
+  <img src="https://private-user-images.githubusercontent.com/184910579/376195151-e7a95b0e-7cd8-4978-ad95-98ecafef404c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5MDEwOTQsIm5iZiI6MTcyODkwMDc5NCwicGF0aCI6Ii8xODQ5MTA1NzkvMzc2MTk1MTUxLWU3YTk1YjBlLTdjZDgtNDk3OC1hZDk1LTk4ZWNhZmVmNDA0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNFQxMDEzMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMmM2NzVhZmNhYmE2ZjI1MGU0NDg5YzM0Zjc5OWE0MzBhYmE5NjZhYmVhYzdjOWNlNWZmMTgyN2U5MjU2MjM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.80CT3sDNclv2YWA2fL2_lumheKx05NB799ZCWELtfh0" alt="Centered Image" width="200"/>
 </div>
+<br><br>
 
 
 ## Features
