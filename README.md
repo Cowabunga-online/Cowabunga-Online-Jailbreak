@@ -20,8 +20,11 @@ Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the la
 
 ## What Can You Do?
 With Cowabunga Online Jailbreak, you can:
-Apply beautiful themes that transform your device’s look and feel.
-Customize your device's icons,using the preloaded theme packs.
+
+*  Apply beautiful themes that transform your device’s look and feel.
+*  Customize your device's icons,using the preloaded theme packs.
+<br><br>
+
 
 ## Installation Guide
 <b> Cowabunga Online can be installed directly on your device: </b>
