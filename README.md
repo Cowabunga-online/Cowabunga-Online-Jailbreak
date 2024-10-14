@@ -24,6 +24,10 @@ With Cowabunga Online Jailbreak, you can:
 *  Apply beautiful themes that transform your device’s look and feel.
 *  Customize your device's icons,using the preloaded theme packs.
 <br><br>
+<div align="center">
+  <img src="" alt="Centered Image" width="200"/>
+</div>
+<br><br>
 
 
 ## Installation Guide
