@@ -25,11 +25,12 @@ With Cowabunga Online Jailbreak, you can:
 
 *  Apply beautiful themes that transform your device’s look and feel.
 *  Customize your device's icons,using the preloaded theme packs.
-<br><br>
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/184910579/376455146-7b243e83-e37f-485e-960e-4fdaac60219a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5NjYxNjUsIm5iZiI6MTcyODk2NTg2NSwicGF0aCI6Ii8xODQ5MTA1NzkvMzc2NDU1MTQ2LTdiMjQzZTgzLWUzN2YtNDg1ZS05NjBlLTRmZGFhYzYwMjE5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNVQwNDE3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGViZWQxNzFlODFmYjE0YTk3Nzg0YzdlZmFjN2U4ODdhMzRjNWRjNTQxNmNiMzJiODc0NDlhYzU1MTk0ZTI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W1PnL-A9TBf3M4ZbMGxToGU-op3ih6t4p7GZz23X6q8" alt="Centered Image" width="200"/>
+    <img src="https://github.com/user-attachments/assets/7b243e83-e37f-485e-960e-4fdaac60219a" alt="unnamed" width ="250">
 </div>
-<br><br>
+
+
+
 
 
 ## Installation Guide
