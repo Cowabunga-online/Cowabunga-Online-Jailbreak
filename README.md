@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Cowabunga Online Jailbreak</h1>
+  <h1> Cowabunga Online Jailbreak for iOS 18.2</h1>
 </div>
 
 Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the latest addition to the iOS 18 to iOS 18.2 jailbreak solutions. It is a fully online jailbreak method that allows users to customize their iPhones and iPads without the need for a Mac, Windows, or Linux computer.
