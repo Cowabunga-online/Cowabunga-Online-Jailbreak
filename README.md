@@ -76,8 +76,3 @@ The Cowabunga Online Jailbreak version 1.0 is now live! This is the first public
 
 * Tweaks Support: The next release will include full support for installing tweaks, bringing even more customization to your device.
 <br><br>  
-## How to Install
-
-1. Open Safari on your iPhone or iPad running iOS 18 to iOS 18.3 or iPadOS 18 to iOS 18.3.
-2. Visit the official Cowabunga Online Jailbreak page.
-3. Follow the step-by-step instructions provided.
