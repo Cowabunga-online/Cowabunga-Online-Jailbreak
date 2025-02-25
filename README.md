@@ -14,7 +14,7 @@ Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the la
 
 ## Key Features
 
-*  Full Support for iOS 18 & iPadOS 18: Compatible with all devices running iOS 18 to iOS 18.4 or iPadOS 18 to iOS 18.4.
+*  Full Support for iOS 18.4 & iPadOS 18.4: Compatible with all devices running iOS 18 to iOS 18.4 or iPadOS 18 to iOS 18.4.
 *  Custom Themes: Experience a wide range of themes for icons, widgets, and wallpapers, allowing you to personalize your device without needing a computer.
 *  No PC/Mac Required: Completely online, install Cowabunga Online directly from your device.
 *  Easy-to-use: A straightforward installation process through Safari, designed for convenience.
