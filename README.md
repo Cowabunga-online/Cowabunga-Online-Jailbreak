@@ -1,8 +1,8 @@
 <div align="center">
-  <h1> Cowabunga Online Jailbreak for iOS 18.4 </h1>
+  <h1> Cowabunga Online Jailbreak for iOS 18.5 beta </h1>
 </div>
 
-Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the latest addition to the iOS 18 to iOS 18.4 jailbreak solutions. It is a fully online jailbreak method that allows users to customize their iPhones and iPads without the need for a Mac, Windows, or Linux computer.
+Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the latest addition to the iOS 18 to iOS 18.5 beta jailbreak solutions. It is a fully online jailbreak method that allows users to customize their iPhones and iPads without the need for a Mac, Windows, or Linux computer.
 <br><br>
 
 
@@ -14,7 +14,7 @@ Welcome to the Cowabunga Online Jailbreak repository! Cowabunga Online is the la
 
 ## Key Features
 
-*  Full Support for iOS 18.4 & iPadOS 18.4: Compatible with all devices running iOS 18 to iOS 18.4 or iPadOS 18 to iOS 18.4 and newly released iOS 18.3.2 , iPadOS 18.3.2
+*  Full Support for iOS 18.5 beta & iPadOS 18.5 beta: Compatible with all devices running iOS 18 to iOS 18.5 or iPadOS 18 to iOS 18.5 and newly released iOS 18.3.2 , iPadOS 18.3.2
 *  Custom Themes: Experience a wide range of themes for icons, widgets, and wallpapers, allowing you to personalize your device without needing a computer.
 *  No PC/Mac Required: Completely online, install Cowabunga Online directly from your device.
 *  Easy-to-use: A straightforward installation process through Safari, designed for convenience.
@@ -36,16 +36,16 @@ With Cowabunga Online Jailbreak, you can:
 ## Installation Guide
 <b> Cowabunga Online can be installed directly on your device: </b>
 
-1. Open Safari on your iPhone or iPad running iOS 18 to iOS 18.4 or iPadOS 18 to iOS 18.4.
+1. Open Safari on your iPhone or iPad running iOS 18 to iOS 18.5 beta or iPadOS 18 to iOS 18.5 beta.
 2. Visit the official Cowabunga Online jailbreak  page.
 3. Follow the on-screen instructions to install Cowabunga Online.
    
-It’s that simple! No need for extra devices or complex setups. Experience the power of Cowabunga themes on your iOS 18 to iOS 18.4 device today.
+It’s that simple! No need for extra devices or complex setups. Experience the power of Cowabunga themes on your iOS 18 to iOS 18.5 beta device today.
 <br><br>
 ## Compatibility
 
-*  iPhones: All models running iOS 18 to iOS 18.4
-*  iPads: All models running iPadOS 18 to iOS 18.4
+*  iPhones: All models running iOS 18 to iOS 18.5 beta
+*  iPads: All models running iPadOS 18 to iOS 18.5beta
 <br><br>
 ## Coming Soon
 We are actively working on bringing tweak support to Cowabunga Online. Once available, you’ll be able to enhance your device even further with powerful tweaks for customization and functionality improvements.
